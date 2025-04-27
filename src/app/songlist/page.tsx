@@ -1,5 +1,4 @@
-export default async function LandingPage() {
-
+export default async function SongListPage() {
   return (
     <main className="p-6">
       <h1 className="text-2xl font-bold mb-6">🎵 This is the Landing Page</h1>
